@@ -1,0 +1,3 @@
+type,Count,Mean_Sigma,Min_Sigma,Max_Sigma
+Outlier,12,2.56,2.11,3.0
+Single mRNA,392,1.2,1.0,1.89
